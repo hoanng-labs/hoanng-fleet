@@ -1,0 +1,8 @@
+# build output (the exe is published in GitHub Releases, not committed)
+/dist/
+*.exe
+*.pdb
+
+# runtime data created next to the exe: machine list, private SSH keys, trash, sync logs — never commit
+data/
+*.zip
