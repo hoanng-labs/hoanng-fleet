@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/hoanng-dev/hoanng-fleet?label=t%E1%BA%A3i%20v%E1%BB%81&color=0d6efd"></a>
+  <a href="../../releases/latest"><img alt="Download" src="https://img.shields.io/github/v/release/hoanng-labs/hoanng-fleet?label=t%E1%BA%A3i%20v%E1%BB%81&color=0d6efd"></a>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-10%20%7C%2011%20%7C%20Server-061f47">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-3b5f91">
 </p>
@@ -92,7 +92,7 @@ Hoanng Fleet gói tất cả vào **một tệp `.exe` ~160 KB**, không cần c
 Không cần Visual Studio — dùng trình biên dịch C# có sẵn trong Windows:
 
 ```bat
-git clone https://github.com/hoanng-dev/hoanng-fleet
+git clone https://github.com/hoanng-labs/hoanng-fleet
 cd hoanng-fleet
 build.cmd
 :: → dist\HoanngFleet.exe
@@ -111,7 +111,7 @@ build.cmd                          build bằng csc.exe của Windows
 
 ## Giấy phép
 
-[MIT](LICENSE) © 2026 [Hoanng Labs](https://hoanng.dev)
+[MIT](LICENSE) © 2026 [Hoanng Labs, Inc.](https://hoanng.dev)
 
 ---
 
